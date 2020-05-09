@@ -1,4 +1,4 @@
-name = "test_drums"
+name = "example_drums"
 
 [wav]
 x = "3_kick_drum.wav"
